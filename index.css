@@ -7,3 +7,7 @@ img{
 main{
     display: flex;
 }
+footer{
+    background-color: #ccc;
+
+}
