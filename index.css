@@ -4,3 +4,6 @@ h2{
 img{
     overflow: hidden;
 }
+main{
+    display: flex;
+}
