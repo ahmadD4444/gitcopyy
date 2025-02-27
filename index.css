@@ -1,3 +1,6 @@
 h2{
     font-size: 2rem;
 }
+img{
+    overflow: hidden;
+}
